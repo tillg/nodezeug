@@ -42,7 +42,7 @@ gr --> git add / commit / push
 * http://themes.getbootstrap.com/
 * http://startbootstrap.com/
 
-##Bracket Editor
+##Brackets Editor
 * Free & Open Source
 * http://brackets.io/
 * Nice Features:
