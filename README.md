@@ -32,8 +32,32 @@ Think of adding `node_modules` into `.gitignore`.
 gr --> git add / commit / push
 ``
 
-##  Helpers for browsers, node
+##  Tools & Helpers
 * `nodemon`: A tool to check code files `npm install -g nodemon`
 * JSONview: A Chrom plugin to view JSON documents pretty printed: https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en
 * `forever`: makes a node script run forever. Restarts it when it stops.
 
+## Bootstrap themes
+* https://www.bootstrapzero.com/
+* http://themes.getbootstrap.com/
+* http://startbootstrap.com/
+
+##Bracket Editor
+* Free & Open Source
+* http://brackets.io/
+* Nice Features:
+   * Knows JSHint & JSCS
+   * `cmd` & `L` beautifies all the code
+* Theme: 
+	* get it here: http://github.com/David5i6/Brackets-Delkos-Dark-Theme
+* Extensions
+	* Beautify: `Cmd + Shift + L` makes the code look nice
+	* Brackets files tabs: Have file tabs at the top instead of the left bar
+	* Brackets Icons
+	* Brackets CSS color preview
+	* Brackets Snippets (by edc)
+    * Brackets Outline: Shows a TOC for many file type (i.e. Markdown)
+	
+	
+	
+   
